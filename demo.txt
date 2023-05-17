@@ -1,0 +1,4 @@
+git version:git version 2.40.0.windows.1
+
+1. you have to create main repository as your name_main_repo
+2. you have to add this file in your main repository as demo.txt
